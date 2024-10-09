@@ -1,0 +1,1 @@
+# C# eğitim kampı ilk ders
