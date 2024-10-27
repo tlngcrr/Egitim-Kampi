@@ -19,8 +19,8 @@ Bu projede for döngüsü ile yıldızları tekrarlanmasını sağlayıp ekrana 
 # 📍 Proje 6: Arrays (Diziler)
 BU projede dizileri keşfettim. Birden fazla değerin nasıl depolanabileçeğini öğrendim ve kullandım.🏅
 
-# Proje 7: ForeachLoop(Foreach döngüsü)
+# 📍 Proje 7: ForeachLoop(Foreach döngüsü)
 Bu projede örnek bir sınav sistemi simülasyonu oluşturdum. Sınıf mevcudu ve öğrenci isimleri birlikte üç sınav notunun ortalamasını hesaplayıp ortalamaya göre geçme/kalma durumlarını hesapladım.🪄
 
-# Proje 8: Methods(Metotlar)
+# 📍 Proje 8: Methods(Metotlar)
 BU projede ise kullanıcıdan aldığım verilerle geriye değer döndüren ve döndürmeyen parametreli metotları öğrendim ve örnek bir uygulamayla pekiştirip nasıl kullanılacağını daha iyi kavradım.🎉
