@@ -24,3 +24,5 @@ Bu projede örnek bir sınav sistemi simülasyonu oluşturdum. Sınıf mevcudu v
 
 # 📍 Proje 8: Methods(Metotlar)
 Bu projede ise kullanıcıdan aldığım verilerle geriye değer döndüren ve döndürmeyen parametreli metotları öğrendim ve örnek bir uygulamayla pekiştirip nasıl kullanılacağını daha iyi kavradım.🎉
+# 📍Proje 9: Database
+Bu projede SQL veri tabanı ile tablonun nasıl oluşturulacağını öğrendim.Bu prpjeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı yakaladım. İlerleyen süreölerde ise bu bilgileri daha da geliştireceğim!
