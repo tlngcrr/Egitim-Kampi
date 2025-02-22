@@ -23,4 +23,6 @@ BU projede dizileri keşfettim. Birden fazla değerin nasıl depolanabileçeğin
 Bu projede örnek bir sınav sistemi simülasyonu oluşturdum. Sınıf mevcudu ve öğrenci isimleri birlikte üç sınav notunun ortalamasını hesaplayıp ortalamaya göre geçme/kalma durumlarını hesapladım.🪄
 
 # 📍 Proje 8: Methods(Metotlar)
-BU projede ise kullanıcıdan aldığım verilerle geriye değer döndüren ve döndürmeyen parametreli metotları öğrendim ve örnek bir uygulamayla pekiştirip nasıl kullanılacağını daha iyi kavradım.🎉
+Bu projede ise kullanıcıdan aldığım verilerle geriye değer döndüren ve döndürmeyen parametreli metotları öğrendim ve örnek bir uygulamayla pekiştirip nasıl kullanılacağını daha iyi kavradım.🎉
+# 📍Proje 9: Database
+Bu projede SQL veri tabanı ile tablonun nasıl oluşturulacağını öğrendim.Bu prpjeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı yakaladım. İlerleyen süreölerde ise bu bilgileri daha da geliştireceğim!
