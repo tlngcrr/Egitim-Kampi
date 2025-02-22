@@ -12,7 +12,7 @@ namespace CSharp301.DataAccessLayer.Abstract
     {
         void Insert(T entity);
         void Update(T entity);
-        void Delete(int id);
+        void Delete(T entity);
         List<T> GetAll();//Bütün verileri getirecek.
         T GetById(int id);//Dışardan id'yi alır.
     }
