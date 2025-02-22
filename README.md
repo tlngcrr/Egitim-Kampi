@@ -1,4 +1,4 @@
-![Ekran görüntüsü 2025-02-04 172137](https://github.com/user-attachments/assets/1c900ae6-d5cb-4666-86a8-6dac4e0615a8)# C#EĞİTİM KAMPI MURAT YÜCEDAĞ PROJELERİ
+# C#EĞİTİM KAMPI MURAT YÜCEDAĞ PROJELERİ
 
 # 📍 Proje 1: Yazdırma Komutları
 Bu projede yazdırma komutları (Console.WriteLine()) ile konsola yazı yazmayı öğrendim.
