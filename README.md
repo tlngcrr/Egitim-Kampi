@@ -29,5 +29,7 @@ Bu projede SQL veri tabanı ile tablonun nasıl oluşturulacağını öğrendim.
 # 📍Proje 10: Menü Sipariş İşlem Paneli
 Bu projede temel CRUD işlemleri olan Create,Read,Update ve Delete işlemlerini gerçekleştirerek bir veritabanı ile etkilişim sağladım.SQL bağlantısını kullanarak ürün ve kategori bilgilerini ,ekleme,silme,güncelleme ve listeleme işlemlerini yaptım.Bu proje sayesinde SQL komutlarıyla veritabanına veri kaydetme ve sorgulama işlemlerini gerçekleştirdim.Ve ürün bilgilerini düzenleyerek dinamik bir yapı elde etmeyi öğrendim.🤖
 # 📍 Proje 11: EfTravel İstatistik Paneli
+Bu projede Entity Framework kullanarak bir seyahat veritabanındaki bilgileri sorgulayıp güncelleştiren bir istatistik paneli gerçekleştirdim.
+![Ekran görüntüsü 2025-02-04 172137](https://github.com/user-attachments/assets/bc55c270-a43b-4f1b-ba63-47dd1fc2de51)
 
 
