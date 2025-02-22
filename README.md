@@ -1,4 +1,4 @@
-# C#EĞİTİM KAMPI MURAT YÜCEDAĞ PROJELERİ
+![Ekran görüntüsü 2025-02-04 172137](https://github.com/user-attachments/assets/1c900ae6-d5cb-4666-86a8-6dac4e0615a8)# C#EĞİTİM KAMPI MURAT YÜCEDAĞ PROJELERİ
 
 # 📍 Proje 1: Yazdırma Komutları
 Bu projede yazdırma komutları (Console.WriteLine()) ile konsola yazı yazmayı öğrendim.
@@ -26,3 +26,8 @@ Bu projede örnek bir sınav sistemi simülasyonu oluşturdum. Sınıf mevcudu v
 Bu projede ise kullanıcıdan aldığım verilerle geriye değer döndüren ve döndürmeyen parametreli metotları öğrendim ve örnek bir uygulamayla pekiştirip nasıl kullanılacağını daha iyi kavradım.🎉
 # 📍Proje 9: Database
 Bu projede SQL veri tabanı ile tablonun nasıl oluşturulacağını öğrendim.Bu prpjeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı yakaladım. İlerleyen süreölerde ise bu bilgileri daha da geliştireceğim!
+# 📍Proje 10: Menü Sipariş İşlem Paneli
+Bu projede temel CRUD işlemleri olan Create,Read,Update ve Delete işlemlerini gerçekleştirerek bir veritabanı ile etkilişim sağladım.SQL bağlantısını kullanarak ürün ve kategori bilgilerini ,ekleme,silme,güncelleme ve listeleme işlemlerini yaptım.Bu proje sayesinde SQL komutlarıyla veritabanına veri kaydetme ve sorgulama işlemlerini gerçekleştirdim.Ve ürün bilgilerini düzenleyerek dinamik bir yapı elde etmeyi öğrendim.🤖
+# 📍 Proje 11: EfTravel İstatistik Paneli
+
+
